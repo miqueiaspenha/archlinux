@@ -1,6 +1,6 @@
 #Instalando o Yaourt no Arch Linux
 
-##A instalação do Yaourt é feita adiconando ao seu pacman.conf o repositório "archlinuxfr".
+A instalação do Yaourt é feita adiconando ao seu pacman.conf o repositório "archlinuxfr".
 
 ```
 #Abra o pacman.conf como seu editor eu usei o nano
