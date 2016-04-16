@@ -309,6 +309,11 @@ xf86-video-intel - para drivers da intel
 ```
 
 ```
+#Instalando o conjunto de ícones do faenza
+yaourt -S faenza-icon-theme
+```
+
+```
 #esse foi o que usei, substitua pelo seu respectivo:
 sudo pacman -S virtualbox-guest-utils
 #instalar os opcionais - se quiser, claro
