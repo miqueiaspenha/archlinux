@@ -297,7 +297,7 @@ Saindo do arch-chroot
 # exit
 ```
 
-Semonstando as particoes
+Demonstando as particoes
 ```
 # umount /mnt/home
 # umount /mnt
@@ -308,10 +308,18 @@ Reiniciar o sistema
 reboot
 ```
 
-Parabéns agora vc tem o Arch Linux instalado mas ainda está nú... no próximos arquivos vc verá como instalar a parte gráfica e instalar alguns progrmas que pra mim são necessários.
+Parabéns agora vc tem o Arch Linux instalado mas ainda está nú... no próximos arquivos vc verá como instalar a parte gráfica e instalar alguns programas que pra mim são necessários.
 
 Indico começa pelo Yaourt
 
 [Instalando o Yaourt no Arch Linux](https://github.com/miqueiaspenha/instalacao-archlinux/blob/master/instalando-yaourt-archlinux.md)
+
+Qualquer dúvida estou a disposição no email: [miqueiaspenha@gmail.com](mailto:miqueiaspenha@gmail.com)
+
+Faço um fork e me ajude a manter esse guia sempre atualizado.
+
+Todas as informações foram extraídas do manual original diponibilizado no site o Arch Linux que é o melhor lugar para se ter a melhor e mais atualizada informação sobre ele.
+
+[https://wiki.archlinux.org/index.php/Installation_guide](https://wiki.archlinux.org/index.php/Installation_guide)
 
 Abraços e boa sorte com essa linda distro!
