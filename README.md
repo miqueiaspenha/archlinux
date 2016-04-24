@@ -22,6 +22,7 @@ Se quiser voltar a font defaultload
 Alterar o arquivo locade.gen de descomentar as duas linha referente a PT-BR
 ```
 #nano /etc/locale.gen
+```
 
 Comentar a linha
 ```
