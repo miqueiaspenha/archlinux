@@ -1,5 +1,7 @@
 # Instalacão do Archlinux
 
+![Arch Linux](http://danlynch.org/wp-content/uploads/2009/03/arch-linux-logo.png)
+
 ## Procedimento para instalação do Arch Linux
 
 Obs.: O # na frente dos comandos para quem não sabe indica que vc está como root do sistema.
@@ -318,7 +320,7 @@ Qualquer dúvida estou a disposição no email: [miqueiaspenha@gmail.com](mailto
 
 Faço um fork e me ajude a manter esse guia sempre atualizado.
 
-Todas as informações foram extraídas do manual original diponibilizado no site o Arch Linux que é o melhor lugar para se ter a melhor e mais atualizada informação sobre ele.
+Todas as informações foram extraídas do guia original diponibilizado no site o Arch Linux que é o melhor lugar para se ter a mais atualizadas informações osbre ele.
 
 [https://wiki.archlinux.org/index.php/Installation_guide](https://wiki.archlinux.org/index.php/Installation_guide)
 
