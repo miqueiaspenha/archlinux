@@ -318,9 +318,9 @@ Indico começa pelo Yaourt
 
 Qualquer dúvida estou a disposição no email: [miqueiaspenha@gmail.com](mailto:miqueiaspenha@gmail.com)
 
-Faço um fork e me ajude a manter esse guia sempre atualizado.
+Faça um fork e me ajude a manter esse guia sempre atualizado.
 
-Todas as informações foram extraídas do guia original diponibilizado no site o Arch Linux que é o melhor lugar para se ter a mais atualizadas informações osbre ele.
+Todas as informações foram extraídas do guia original diponibilizado no site do Arch Linux que é o melhor lugar para se ter as mais atualizadas informações sobre ele.
 
 [https://wiki.archlinux.org/index.php/Installation_guide](https://wiki.archlinux.org/index.php/Installation_guide)
 
