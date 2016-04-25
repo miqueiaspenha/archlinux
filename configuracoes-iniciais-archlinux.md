@@ -47,8 +47,13 @@ Instalar o xorg e outros pacotes para o sistema fique avontade para ler sobre el
 sudo pacman -S xorg-server xorg-xinit xorg-server-utils mesa ttf-dejavu samba smbclient networkmanager networkmanager-vpnc networkmanager-pptp networkmanager-openconnect network-manager-applet gvfs gvfs-smb sshfs
 ```
 
-Instalar driver de video
-Instale o seu:
+Escolha o seu driver de video e o instale com o pacman
+
+```
+sudo pacman -S o-meu-driver-de-video-abaixo
+```
+
+Drivers
 
 ```
 virtualbox-guest-utils - para o virtualbox
