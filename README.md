@@ -18,13 +18,12 @@ No linux usei o comando dd
 ```
 # dd if=iso-do-archlinux.iso of=/dev/sdX
 ```
-Onde X é referente ao seu pendrive, exemplo: /dev/sdc
-Para saber qual é o pendrive pode se usar o comando
+O X é referente ao seu pendrive, exemplo: /dev/sdc, para saber qual é o pendrive vc pode usar o comando
 ```
 # fdisk -l
 ```
 
-Coloque seu pc para efeutar o boot pelo o pendrive, em algun computadores precisam de algumas configurações na bios no meu caso um F12 foi o necessário para efetuar o boot.
+Coloque seu pc para efeutar o boot pelo o pendrive, alguns computadores precisam de algumas configurações na bios no meu caso um F12 foi o suficiente para efetuar o boot.
 
 Com o computador inicializado com o Arch Linux como root # execute os comandos a baixo:
 
