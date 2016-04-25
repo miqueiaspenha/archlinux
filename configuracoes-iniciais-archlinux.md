@@ -88,7 +88,7 @@ Para inicializar o Gnome edite o arquivo
 sudo nano ~/.xinitrc
 ```
 
-Comente essas linhas a caso existirem
+Comente essas linhas se a caso existirem
 ```
 #twm &
 #xclock -geometry 50x50-1+1 &
