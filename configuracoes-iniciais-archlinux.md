@@ -97,12 +97,12 @@ Comente essas linhas se a caso existirem
 #exec xterm -geometry 80x66+0+0 -name login
 ```
 
-Adcione essa
+Adicione essa para chamar o gnome session
 ```
 exec gnome-session
 ```
 
-Para subir sempre o GDM ao inicalizar o sistem
+Para subir sempre o GDM ao inicalizar o sistema
 ```
 sudo systemctl enable gdm
 ```
