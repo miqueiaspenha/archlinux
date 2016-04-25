@@ -115,7 +115,7 @@ yaourt -S faenza-icon-theme
 reinicie o systema
 ```
 sudo reboot
-
+```
 
 
 Indico fazer tbm a intalação do Yaourt
