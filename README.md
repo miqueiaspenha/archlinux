@@ -6,6 +6,28 @@
 
 Obs.: O # na frente dos comandos para quem não sabe indica que vc está como root do sistema.
 
+Efetue o download da iso aqui
+[https://www.archlinux.org/download/](https://www.archlinux.org/download/)
+
+Pegue um pendrive vazio, sem dados.
+
+Para criar o disco de inicialização no Windows usei o Ruffus
+[https://rufus.akeo.ie/?locale=pt_BR](https://rufus.akeo.ie/?locale=pt_BR)
+
+No linux usei o comando dd
+```
+# dd if=iso-do-archlinux.iso of=/dev/sdX
+```
+Onde X é referente ao seu pendrive, exemplo: /dev/sdc
+Para saber qual é o pendrive pode se usar o comando
+```
+# fdisk -l
+```
+
+Coloque seu pc para efeutar o boot pelo o pendrive, em algun computadores precisam de algumas configurações na bios no meu caso um F12 foi o necessário para efetuar o boot.
+
+Com o computador inicializado com o Arch Linux como root # execute os comandos a baixo:
+
 Efetua a mudança do teclado para BR ABNT 2
 ```
 # loadkeys br-abnt2
