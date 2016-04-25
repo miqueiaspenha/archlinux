@@ -333,9 +333,7 @@ reboot
 
 Parabéns agora vc tem o Arch Linux instalado mas ainda está nú... no próximos arquivos vc verá como instalar a parte gráfica e instalar alguns programas que pra mim são necessários.
 
-Indico começa pelo Yaourt
-
-[Instalando o Yaourt no Arch Linux](https://github.com/miqueiaspenha/instalacao-archlinux/blob/master/instalando-yaourt-archlinux.md)
+[Configurações iniciais](https://github.com/miqueiaspenha/instalacao-archlinux/blob/master/configuracoes-iniciais-archlinux.md)
 
 Qualquer dúvida estou a disposição no email: [miqueiaspenha@gmail.com](mailto:miqueiaspenha@gmail.com)
 
