@@ -234,6 +234,7 @@ Verificando suas interfaces de rede
 Configurando a rede cabeada com sua interface
 ```
 # systemctl enable dhcpcd@sua-inetrface
+```
 
 Instalando pacotes para usar a rede wireless
 ```
