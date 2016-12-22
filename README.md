@@ -221,15 +221,19 @@ Verifica o horário
 # date
 ```
 
+Instalando as ferramentas de rede
+```
+# pacman -S net-tools
+```
+
 Verificando suas interfaces de rede
 ```
-# iwconfig
+# ifconfig
 ```
 
 Configurando a rede cabeada com sua interface
 ```
-# systemctl enable dhcpcd@sua-inetrface.service
-```
+# systemctl enable dhcpcd@sua-inetrface
 
 Instalando pacotes para usar a rede wireless
 ```
@@ -290,9 +294,9 @@ Adiconar seu usuario como root depois de root ALL=(ALL) ALL
 seu-usuario ALL=(ALL) ALL
 ```
 
-Instalando as ferramentas de rede
+Criando um ambi9ente ramdisk inicial
 ```
-# pacman -S net-tools
+# mkinitcpio -p linux
 ```
 
 Baixando o grub para a instalação
@@ -314,6 +318,32 @@ Criar o arquivo de configuracao do grub
 ```
 # grub-mkconfig -o /boot/grub/grub.cfg
 ```
+
+Autocomplete no sudo usando tecla tab
+
+Abrir o arquivo .bashrc
+```
+# nano /home/seu-usuario/.bashrc
+```
+
+Adicone no final do arquivo
+```
+complete -cf sudo
+```
+
+Para atualizar o console
+```
+# export /home/seu-usuario/.bashrc
+```
+
+agora teste algum comando com o tab
+
+Mudar o nome do hostname
+```
+# hostnamectl set-hostname nome-do-seu-pc
+```
+
+feche e salve e abra o terminal e teste
 
 Saindo do arch-chroot
 ```
